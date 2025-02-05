@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import EventCard from "/src/components/eventCard";
-import eventsData from "/src/utils/eventsData";
+import EventCard from "./eventCard";
+import eventsData from "../utils/eventsData";
 import React from "react";
 
 const Events = () => {

@@ -24,13 +24,13 @@ const eventsData = [
     image: event2img, // ✅ Correct way
   },
   {
-    type: "COMING SOON",
-    title: "Stay Tuned!",
-    date: "TBA",
-    venue: "TBA",
-    time: "TBA",
-    description: "More amazing events are in the pipeline. Keep watching this space for updates!",
-    hoverText: "Exciting events are coming soon. Stay tuned for announcements and updates!",
+    type: "COMPETITION",
+    title: "HackForce",
+    date: "11th February 2025",
+    venue: "Lab 11 & 12 B.tech Building",
+    time: "11:15 AM",
+    description: "Open API AI Efficieny Sprint, to help you become familiar with industry requirements",
+    hoverText: "Ready to put your skills to the test? Geek Room JIMSEMTC presents HackForce Challenge 2025! Prizes, e-certificates, and a chance to showcase your talent. ",
     image: event3img, // ✅ Correct way
   },
   {
@@ -41,7 +41,7 @@ const eventsData = [
     time: "TBA",
     description: "More amazing events are in the pipeline. Keep watching this space for updates!",
     hoverText: "Exciting events are coming soon. Stay tuned for announcements and updates!",
-    image: event3img, // This causes `null` images, remove it or use a default placeholder
+    image: "https://static.vecteezy.com/system/resources/previews/000/429/651/original/vector-coming-soon-message-illuminated-with-light-projector.jpg", // This causes `null` images, remove it or use a default placeholder
   },
 ];
 

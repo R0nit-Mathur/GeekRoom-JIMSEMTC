@@ -1,10 +1,10 @@
 import React from "react";
-import presidentImg from "../assets/president.jpg";
-import meImg from "../assets/me.jpg";
-import mohitImg from "../assets/mohit.jpg";
-import lavanyaImg from "../assets/lavanya.jpg";
-import kashishImg from "../assets/kashish.jpg";
-import designImg from "../assets/design.jpg";
+import presidentImg from "/src/assets/president.jpg";
+import meImg from "/src/assets/me.jpg";
+import mohitImg from "/src/assets/mohit.jpg";
+import lavanyaImg from "/src/assets/lavanya.jpg";
+import kashishImg from "/src/assets/kashish.jpg";
+import designImg from "/src/assets/design.jpg";
 
 const teamMembers = [
   { name: "Ayush Kaushik", role: "President", img: presidentImg },

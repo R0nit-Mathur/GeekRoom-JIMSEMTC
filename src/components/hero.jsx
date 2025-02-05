@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.png"; // Adjust the path as needed
+import logo from "/src/assets/logo.png"; // Adjust the path as needed
 
 const HeroSection = () => {
   return (

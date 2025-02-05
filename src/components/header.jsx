@@ -1,5 +1,5 @@
 import React from "react";
-import geeklogo from "../assets/logo.png"
+import geeklogo from "/src/assets/logo.png"
 
 
 function Navbar() {

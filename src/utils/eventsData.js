@@ -21,7 +21,7 @@ const eventsData = [
     time: "11:00 AM",
     description: "Piyush Jain will showcase 9-10 robots and provide insights into robotics development.",
     hoverText: "Witness robotics in action! Join Piyush Jain to see 9-10 robots and explore cutting-edge technologies.",
-    image: event2img, // ✅ Correct way
+    image: "https://img.freepik.com/free-vector/funny-robot-illustration-poster_1284-53536.jpg?w=1380&t=st=1664169033~exp=1664169633~hmac=42270a2858805666c3bc1d339e99701bf9d170346fa16add92311e18d9cc3372", // ✅ Correct way
   },
   {
     type: "COMPETITION",

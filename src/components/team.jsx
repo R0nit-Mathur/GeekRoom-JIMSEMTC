@@ -7,12 +7,12 @@ import kashishImg from "../assets/kashish.jpg";
 import designImg from "../assets/design.jpg";
 
 const teamMembers = [
-  { name: "Ayush Kaushik", role: "President", img: presidentImg },
-  { name: "Ronit Mathur", role: "Vice-President", img: meImg },
-  { name: "Mohit Kumar", role: "Web-Dev Head", img: mohitImg },
-  { name: "Lavanya Sharma", role: "Event Management Head", img: lavanyaImg },
-  { name: "Kashish Sharma", role: "Cyber & Emerging Tech Head", img: kashishImg },
-  { name: "Herdya", role: "Design Head", img: designImg },
+  { name: "Ayush Kaushik", role: "Chapter Lead", img: presidentImg },
+  { name: "Ronit Mathur", role: "Chapter Member", img: meImg },
+  { name: "Mohit Kumar", role: "Chapter Member", img: mohitImg },
+  { name: "Lavanya Sharma", role: "Chapter Member", img: lavanyaImg },
+  { name: "Paras", role: "Chapter Member", img:  },
+  { name: "Rudra", role: "Chapter Member", img:  },
 ];
 
 const TeamSection = () => {

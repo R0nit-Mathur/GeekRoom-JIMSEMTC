@@ -11,8 +11,6 @@ const teamMembers = [
   { name: "Ronit Mathur", role: "Chapter Member", img: meImg },
   { name: "Mohit Kumar", role: "Chapter Member", img: mohitImg },
   { name: "Lavanya Sharma", role: "Chapter Member", img: lavanyaImg },
-  { name: "Paras", role: "Chapter Member", img: NULL },
-  { name: "Rudra", role: "Chapter Member", img: rudraIMG },
 ];
 
 const TeamSection = () => {
